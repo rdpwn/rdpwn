@@ -1,7 +1,54 @@
+### Hi there! I'm Rodolfo "rdpwn" Tavares
+  
+ɹǝǝuᴉƃuǝ ǝsɹǝʌǝɹ, Crypto, Linux, iOs/OsX sec and any cool stuff with 1's or 0's. Occasionally CTFs. ~ rdpwn ~
 
-- 📫 How to reach me <a href="//github.com/rodnt">github.com/rodnt</a>
+- 🌱 I am currently learning more about security to improve my level
 
-<!---
-rdpwn/rdpwn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔗 Connect with me:
+
+[<img align="left" alt="rdpwn.github.io" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Breezeicons-apps-32-preferences-system-network.svg" />][website]
+[<img align="left" alt="https://br.linkedin.com/in/rodolfo-augusto-543863a7" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+<br/>
+<br>
+<a align="left" href="mailto://rdpwn@protonmail.com">rdpwn@proton.me</a>
+<br />
+
+### 🔎 CVEs:
+|ID|CVSS Vector|Score|Product|
+|---|---|---|---|
+|[CVE-2021-30140](https://nvd.nist.gov/vuln/detail/CVE-2021-30140)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 Medium|[Liquidfiles](https://www.liquidfiles.com/)|
+|[CVE-2020-35581](https://nvd.nist.gov/vuln/detail/CVE-2020-35581)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N|6.1 Medium|[Wordpress Envira gallery](https://github.com/LionSher-Technologies/envira-gallery-lite)|
+|[CVE-2020-257909](https://nvd.nist.gov/vuln/detail/CVE-2020-25790)|CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H|7.1 High|[Typesetter-CMS](https://github.com/Typesetter/Typesetter)|
+|[CVE-2019-20803](https://nvd.nist.gov/vuln/detail/CVE-2019-20803)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N|6.1 Medium|[GILACMS](https://github.com/GilaCMS)|
+|[CVE-2019-20804](https://nvd.nist.gov/vuln/detail/CVE-2019-20804)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H|8.8 Medium|[GILACMS](https://github.com/GilaCMS)|
+|[CVE-2019-13363](https://nvd.nist.gov/vuln/detail/CVE-2019-13363)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:H/A:H|9.6 Critical|[Piwigo](https://github.com/Piwigo)|
+|[CVE-2019-13364](https://nvd.nist.gov/vuln/detail/CVE-2019-13364)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:H/A:H|9.6 Critical|[Piwigo](https://github.com/Piwigo)|
+|[CVE-2021-46426](https://nvd.nist.gov/vuln/detail/CVE-2021-46426)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N|6.1 Medium|[phpIPAM](https://github.com/phpipam)|
+
+---
+### :writing_hand: Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [iOS Anti-Tampers Bypass](https://rdpwn.github.io/post/2022-03-20-ios-antitampers-bypass/)
+- [SQL Injection CVE-2022-23046 - PHPIPAM + Exploit](https://rdpwn.github.io/post/2022-01-21-cve_2022_23046_phpipam/)
+<!-- BLOG-POST-LIST:END -->
+
+---
+### 💣 Exploits 
+
+- [Typesetter CMS 5.1  Code Exec](https://www.exploit-db.com/exploits/48906)
+- [phpIPAM 1.4.4 SQLi](https://www.exploit-db.com/exploits/50684)
+
+### :zap: GitHub Stats
+  
+![rdpwn github stats](https://github-readme-stats.vercel.app/api?username=rdpwn&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=rdpwn&layout=compact&theme=dark)
+
+![rdpwn github trophy](https://github-profile-trophy.vercel.app/?username=rdpwn&theme=onedark)
+
+---
+![](https://komarev.com/ghpvc/?username=rdpwn&color=red&style=for-the-badge)
+
+[website]: https://rdpwn.github.io
+[linkedin]: https://br.linkedin.com/in/rodolfo-augusto-543863a7
+[gists]: https://gist.github.com/rdpwn
