@@ -1,6 +1,6 @@
 ### Hi there! I'm Rodolfo "rdpwn" Tavares
   
-ɹǝǝuᴉƃuǝ ǝsɹǝʌǝɹ, Crypto, Linux, iOs/OsX sec and any cool stuff with 1's or 0's. Occasionally CTFs. ~ rdpwn ~
+ɹǝǝuᴉƃuǝ ǝsɹǝʌǝɹ, Crypto, Linux, iOs/Osx sec and any cool stuff with 1's or 0's. Occasionally CTFs. ~ rdpwn ~
 
 - 🌱 I am currently learning more about security to improve my level
 
