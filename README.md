@@ -29,8 +29,8 @@
 ### :writing_hand: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [iOS Anti-Tampers Bypass](https://rdpwn.github.io/post/2022-03-20-ios-antitampers-bypass/)
-- [SQL Injection CVE-2022-23046 - PHPIPAM + Exploit](https://rdpwn.github.io/post/2022-01-21-cve_2022_23046_phpipam/)
+- [iOS Anti-Tampers Bypass](https://rdpwn.github.io/posts/iOS-antitampers-bypass/)
+- [SQL Injection CVE-2022-23046 - PHPIPAM + Exploit](https://rdpwn.github.io/posts/cve_2022_23046_phpipam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
